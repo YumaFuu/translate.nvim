@@ -16,7 +16,7 @@ local output_in_float_win = function(content, winnr, pos)
 			pos.col,
 		},
 		style = "minimal",
-		border = "curved",
+		border = "none",
 	})
 end
 
